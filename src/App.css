@@ -1,3 +1,47 @@
+.header{
+  background-color: gray;
+  padding: 20px;
+  margin: 10px;
+}
+
+.product{
+  background-color: rgb(166, 230, 230);
+  padding: 20px;
+  margin: 10px;
+  width: fit-content;
+}
+
+.products{
+  width: 100%;
+  display: flex;
+}
+
+.image{
+  width: 200px;
+
+}
+
+.button{
+  background-color: blueviolet;
+  border-radius: 6px;
+  padding:15px 30px ;
+  color: white;
+  font-size: 20px;
+  border: 0px;
+  margin: 10px;
+}
+
+
+
+
+
+
+
+
+
+
+
+/* 
 .App {
   text-align: center;
 }
@@ -35,4 +79,4 @@
   to {
     transform: rotate(360deg);
   }
-}
+} */
